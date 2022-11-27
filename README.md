@@ -1,2 +1,2 @@
-# monisha-project
-monisha project
+# minosha-project
+minosha project
